@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**brunoloz/brunoloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Bruno 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Computer Engineering Student
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <a href="https://github.com/brunoloz">
+    <img src="https://img.shields.io/badge/GitHub-brunoloz-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-lozano-clemente-578b77385/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:brunolocle@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=brunoloz&hide_border=true&background=151515&ring=FFD700&fire=FF8C00&currStreakNum=FFD700&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=D1D5DB&dates=9CA3AF" />
+</p>
+
+
+
+---
+
+<p align="center">
+  <i>Always learning, building and exploring new technologies.</i>
+</p>
+
