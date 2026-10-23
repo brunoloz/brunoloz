@@ -18,19 +18,6 @@
   </a>
 </p>
 
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=brunoloz&hide_border=true&background=151515&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&currStreakLabel=FF8C00&sideNums=39D353&sideLabels=39D353&dates=9CA3AF&stroke=9CA3AF" />
-</p>
-
-
-
-
-
 ---
 
 <p align="center">
