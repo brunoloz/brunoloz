@@ -7,9 +7,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/brunoloz">
-    <img src="https://img.shields.io/badge/GitHub-brunoloz-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/bruno-lozano-clemente-578b77385/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
